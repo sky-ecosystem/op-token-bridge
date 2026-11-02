@@ -110,3 +110,15 @@ forge script script/Withdraw.s.sol:Withdraw --slow --multi --broadcast
 ```
 
 The message can be relayed manually to L1 using the [Superchain Relayer](https://superchainrelayer.xyz/).
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| Cantina | [MakerDAO OP Token Bridge Audit Report](https://cantina.xyz/portfolio/ff1849d1-66d4-494b-91a4-bf2d9c59276e) | 2024-10-15 |
+| ChainSecurity | [OP Token Bridge](https://www.chainsecurity.com/security-audit/makerdao-op-token-bridge/) | 2024-10-09 |
+| Cantina | [Optimism Token Bridge](https://cantina.xyz/portfolio/985ac44f-9d23-4d24-b699-ac5cd2d63b75) | 2024-08-28 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
